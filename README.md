@@ -12,8 +12,6 @@ Um aplicativo Flutter que consome a [Rick and Morty API](https://rickandmortyapi
   dart pub global activate flutterfire_cli
   ```
 
----
-
 ## Configuração do Firebase
 
 Antes de executar o projeto, você precisa gerar/configurar dois arquivos essenciais usando o FlutterFire CLI:
@@ -31,7 +29,6 @@ Antes de executar o projeto, você precisa gerar/configurar dois arquivos essenc
 2. **firebase_options.dart**
    - Local: `/lib/firebase_options.dart`
    - Contém as configurações do Firebase para cada plataforma.
-
 
 ## Instalação e Execução
 
@@ -58,10 +55,8 @@ Antes de executar o projeto, você precisa gerar/configurar dois arquivos essenc
    flutter run
    ```
 
----
-
 ## Demonstração
 
 > [Baixar o APK](#)
 
-![App GIF](assets/demo.gif)
+![App GIF](docs/demo.gif)
