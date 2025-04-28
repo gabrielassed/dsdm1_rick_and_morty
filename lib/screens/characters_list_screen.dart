@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import '../models/character.dart';
 import '../services/api_service.dart';
-import '../services/auth_service.dart';
 import '../widgets/character_card.dart';
 
 class CharactersListScreen extends StatefulWidget {
