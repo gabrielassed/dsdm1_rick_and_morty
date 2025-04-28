@@ -57,6 +57,6 @@ Antes de executar o projeto, você precisa gerar/configurar dois arquivos essenc
 
 ## Demonstração
 
-> [Baixar o APK](#)
+> [Baixar o APK](https://github.com/gabrielassed/dsdm1_rick_and_morty/releases/download/android/app-release.apk)
 
 ![App GIF](docs/demo.gif)
