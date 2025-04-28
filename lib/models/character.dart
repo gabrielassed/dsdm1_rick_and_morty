@@ -20,4 +20,13 @@ class Character {
     species: json['species'] as String,
     image: json['image'] as String,
   );
+
+  /// Converte este objeto para Map, para salvar no Firestore
+  Map<String, dynamic> toJson() => {
+    'id': id,
+    'name': name,
+    'status': status,
+    'species': species,
+    'image': image,
+  };
 }
